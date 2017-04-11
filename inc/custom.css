@@ -4,3 +4,20 @@
 
 /* Custom Styles */
 
+.mid h2 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  color: white;
+/*  text-transform: uppercase;*/
+  margin: 0;
+  position: absolute;
+  top: 11%;
+  left: 33%;
+  font-size: 2.5rem;
+  transform: translate(-50%, -50%);
+}
+
+.pretty-table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
